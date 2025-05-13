@@ -8,3 +8,6 @@
 4. [Практическая работа 4](https://github.com/Sofikoshka7/lesson4_2)
 
    4.1. [контрольное задание](https://github.com/Sofikoshka7/MireaProject)
+5. [Практическая работа 5](https://github.com/Sofikoshka7/Lesson5)
+
+   5.1. [контрольное задание](https://github.com/Sofikoshka7/MireaProject)
